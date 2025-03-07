@@ -6,8 +6,6 @@
 
 💡 As a dedicated computer science enthusiast, my main passions lie in **mathematical modeling**, **artificial intelligence**, and **game development**.
 
-🎞️ When I’m not coding, you’ll find me either immersed in a good book or [watching films](https://letterboxd.com/anapoklux/).
-
 🐾 Also, the profile picture features my ginger cat, **Nacho**!
 
 
