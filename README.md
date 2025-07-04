@@ -18,7 +18,6 @@
 <p align="center">
   <samp>
     <a href="https://www.linkedin.com/in/ana-poklukar-b06789327">linkedin</a> .
-    <a href="mailto:ap3956@student.uni-lj.si">contact</a> .
-    <a href=https://x.com/AnaPoklukar">twitter</a>
+    <a href="mailto:ap3956@student.uni-lj.si">contact</a>
   </samp>
 </p>
